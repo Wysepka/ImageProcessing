@@ -1,0 +1,17 @@
+{
+    "name": "ImageProcessing.ImgColSlicer.QuadVis",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c8cfb4f8b3c60ea45996f90cb2261946",
+        "GUID:4245b7c53dff77e4f9a1bbebdcf8709c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

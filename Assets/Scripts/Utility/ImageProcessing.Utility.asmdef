@@ -1,0 +1,16 @@
+{
+    "name": "ImageProcessing.Utility",
+    "rootNamespace": "",
+    "references": [
+        "GUID:60d27798d49f41a48b1e336bfd704514"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
